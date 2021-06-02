@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @soni4-vecin0 vivo en la ciudad de Buenos Aires .
-- 👀 I’m interested in  formarme como front end y tal vez en un futuro enseñar  sobre lo que aprendí.
-- 🌱 I’m currently learning  Javascript con la gente de Coderhood, y de forma autodidacta "Responsive Web Design Certifiaction" en Freecodecamp.com.
-- 💞️ Por el momento no me siento en confianza para colaborar, ya que estoy aprendiendo. 
+   👋 Hola! mi nombre es Sonia Vecino.
+    - 👀 Me interesa  formarme como Front end y tal vez en algún futuro poder enseñar a otres lo que aprendí.
+    - 🌱  Actualmente estoy cursando para aprender Javascript con la gente de Coderhood, y a la vez , de forma autodidacta  "Responsive Web Design  Certification" en Freecodecamp.com. 
+   💞️ Por el momento no me siento en confianza para colaborar, ya que estoy aprendiendo pero sí les compartiré las resoluciones a ciertos ejercicios a medida los vaya resolviendo.
 - 📫 pueden contactarme a mi email sonianvec@gmail.com.
 
 <!---

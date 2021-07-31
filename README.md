@@ -3,7 +3,7 @@
    👀 Me interesa  formarme como Front end y tal vez en algún futuro poder enseñar a otres lo que aprendí.
             
    🌱  Actualmente estoy cursando para aprender Javascript con la gente de Coderhood, y a la vez , de forma autodidacta  "Responsive Web Design  Certification" en Freecodecamp.com.                   
-   💞️ Por el momento no me siento en confianza para colaborar, ya que estoy aprendiendo pero sí les compartiré las resoluciones a ciertos ejercicios a medida los vaya resolviendo.               
+   💞️ Por el momento estoy practicando y practicando y practicando para poder compartirles mis ejercicios con Git, como práctica del mismo.               
 -            📫 pueden contactarme a mi email sonianvec@gmail.com.        
 
 <!---

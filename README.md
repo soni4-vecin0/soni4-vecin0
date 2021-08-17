@@ -1,10 +1,10 @@
    👋 Hola! mi nombre es Sonia Vecino. 
       
-   👀 Me interesa  formarme como Front end y tal vez en algún futuro poder enseñar a otres lo que aprendí.
+   👀 Me interesa desenvolverme como desaroolladora frontend, seguir capacitandome para aprender nuevos lenguajes y en algún futuro me gustaría poder enseñar a otres que no tienen la suerte y los recursos que yo, todo lo que aprendí.
             
-   🌱  Actualmente estoy cursando para aprender Javascript con la gente de Coderhood, y a la vez , de forma autodidacta  "Responsive Web Design  Certification" en Freecodecamp.com.                   
-   💞️ Por el momento estoy practicando y practicando y practicando para poder compartirles mis ejercicios con Git, como práctica del mismo.               
--            📫 pueden contactarme a mi email sonianvec@gmail.com.        
+   🌱  Actualmente estoy aprendiendo y practicando Javascript con la gente de Coderhood.dev, y a la vez, realizando el curso Codo a Codo 4.0 "Desarrollo Web Frontend". También me gusta realizar las prácticas de Freecodecamp para "Responsible Web Design" y "Javascript y Estructura de Datos".
+   💞️ Por el momento estoy practicando y practicando y practicando.                         
+   📫 pueden contactarme a mi email sonianvec@gmail.com.        
 
 <!---
 soni4-vecin0/soni4-vecin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
